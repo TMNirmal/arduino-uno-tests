@@ -1,0 +1,39 @@
+# PlatformIO build files
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio/libdeps/
+.pio/build/
+.pio/test/
+.pio/.cache/
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Compiled object files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.exe
+
+# Arduino IDE build files
+*.cpp.d
+*.d
+*.dep
+*.sdf
+
+# Logs
+*.log
+
+# Other
+*.bak
+*.tmp
