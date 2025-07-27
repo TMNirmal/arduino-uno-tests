@@ -10,6 +10,7 @@ All projects are developed using **PlatformIO** in **VS Code** with pure C++ (`.
 | Project                                                             | Description                                                               |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [blink-led](blink-led/)                                             | Basic LED blink test with different timing patterns                       |
+| [led-pwm-fade](led-pwm-fade/)                                       | Smooth PWM LED fading demo on pin 9 (breathing effect)                    |
 | [oled-monochrome-0.91inch](oled-monochrome-0.91inch/)               | Animated waveform display (Sine, Square, Triangle) on 0.91" 128x32 OLED   |
 | [oled-monochrome-0.96inch-button](oled-monochrome-0.96inch-button/) | Animated waveform display on 0.96" 128x64 OLED with button to change wave |
 
