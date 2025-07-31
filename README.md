@@ -19,7 +19,7 @@ All projects are developed using **PlatformIO** in **VS Code** with pure C++ (`.
 | [eeprom-counter](eeprom-counter/)                                   | Button press counter with persistent storage in EEPROM                         |
 | [freertos-ldr-serial-button](freertos-ldr-serial-button/)           | FreeRTOS multitasking: LDR reading, button, and serial print in separate tasks |
 
-This collection is actively maintained—new projects will be added!
+This collection is actively maintained—upcoming projects will include CAN bus, temperature and humidity sensors, IR remote decoding, servo motor control, and more!
 
 ---
 
