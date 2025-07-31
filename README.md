@@ -16,6 +16,7 @@ All projects are developed using **PlatformIO** in **VS Code** with pure C++ (`.
 | [uart-lcd-16x2](uart-lcd-16x2/)                                     | Real-time UART to I2C 16x2 LCD: newest char at top-left, circular buffer  |
 | [stepper-gate-button](stepper-gate-button/)                         | Button-controlled stepper motor gate: toggles open/close with each press  |
 | [ultrasonic-oled-ruler-interrupt](ultrasonic-oled-ruler-interrupt/) | Ultrasonic ruler with OLED display and button interrupt for unit switch   |
+| [eeprom-counter](eeprom-counter/)                                   | Button press counter with persistent storage in EEPROM                    |
 
 More projects (PWM, LCD, communication, etc.) will be added soon.
 
