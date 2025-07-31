@@ -1,8 +1,3 @@
-Absolutely! Here’s your **final, detailed README.md** for the `freertos-ldr-serial-button` project, including task configuration, integration hurdles, and your design decisions:
-
----
-
-```markdown
 # FreeRTOS LDR Serial Button
 
 A FreeRTOS-based Arduino Uno project that reads an LDR (light sensor) and prints the value to the Serial Monitor.  
@@ -81,9 +76,11 @@ A button toggles the display between raw value and percentage, all handled with 
 - Code is in the `src/` folder.
 
 ---
+
 ```
 
 ---
 
-**Copy and paste this into your project’s `README.md`!**  
+**Copy and paste this into your project’s `README.md`!**
 Let me know if you want a code header or further documentation.
+```
